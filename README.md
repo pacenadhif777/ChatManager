@@ -27,6 +27,10 @@ Limits messages to 1 per (configurable) amount of seconds. This prevents spam & 
 
 All exception reasons are configurable.
 
+## Preview
+
+![Screenshot_20250203-202114 (1) (1)](https://github.com/user-attachments/assets/3d78010f-04d8-48f8-ad35-ebfa4b08d416)
+
 ## Config options:
 
 ```
