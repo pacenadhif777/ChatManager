@@ -1,6 +1,7 @@
 # ChatManager
 
-This is a plugin for TShock for Terraria, by me. This plugin offers a set of features focussed on chat moderation & username checks.
+Originaly by RenderBr
+This is a plugin for TShock. This plugin offers a set of features focussed on chat moderation & username checks.
 
 ## Permissions:
 
