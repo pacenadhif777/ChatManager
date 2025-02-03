@@ -1,7 +1,7 @@
 # ChatManager
 
-Originaly by RenderBr
-This is a plugin for TShock. This plugin offers a set of features focussed on chat moderation & username checks.
+Originaly by RenderBr/n
+This plugin offers a set of features focussed on chat moderation & username checks.
 
 ## Permissions:
 
