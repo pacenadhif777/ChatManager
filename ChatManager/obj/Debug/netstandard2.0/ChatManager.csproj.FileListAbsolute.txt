@@ -1,0 +1,16 @@
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.csproj.AssemblyReference.cache
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.csproj.CoreCompileInputs.cache
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.sourcelink.json
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\ChatManager.deps.json
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\ChatManager.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\ChatManager.pdb
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\ModFramework.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\OTAPI.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\TerrariaServer.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\TShockAPI.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\TerrariaServer.xml
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\bin\Debug\netstandard2.0\TShockAPI.xml
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatMana.12780793.Up2Date
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.dll
+C:\Users\ITEL\Source\Repos\ChatManager\ChatManager\obj\Debug\netstandard2.0\ChatManager.pdb
