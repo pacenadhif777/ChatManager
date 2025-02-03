@@ -1,6 +1,7 @@
 # ChatManager
 
-Originaly by RenderBr/n
+Originaly by RenderBr
+
 This plugin offers a set of features focussed on chat moderation & username checks.
 
 ## Permissions:
