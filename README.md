@@ -5,14 +5,11 @@ This is a plugin for TShock. This plugin offers a set of features focussed on ch
 
 ## Permissions:
 
-chatmanager.manage
-- This permission will allow you to manage the filter dictionary.
-
-chatmanager.ignore.chatfilter
-- This permission will give you the ability to ignore the chat filter.
-
-chatmanager.ignore.spamfilter
-- This permission will give you the ability to ignore the spam timer.
+| Permission                         | Description                                                  |
+|-------------------------------------|--------------------------------------------------------------|
+| `chatmanager.manage`               | Allows you to manage the filter dictionary.                 |
+| `chatmanager.ignore.chatfilter`    | Grants the ability to ignore the chat filter.               |
+| `chatmanager.ignore.spamfilter`    | Grants the ability to ignore the spam timer.                |
 
 ## Supported exceptions:
 
